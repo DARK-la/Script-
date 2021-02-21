@@ -1,0 +1,7 @@
+<meta>
+
+<info author="Dark" name="ventana"	version="1.0" description="Es una ventana que te da cierto objeto" type="script" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+	<file src="Musica/Rankiro.mp3" type="Client"/>
+</meta>
